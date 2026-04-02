@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-thesis/notes/t1-and-t2/","tags":["relaxation-time","t1","t2","decay-time"],"dg-note-properties":{"tags":["relaxation-time","t1","t2","decay-time"]}}
 ---
 
-
+# $T_1$ and $T_2$ relaxation times
 # Physics
 1. [T1](https://mriquestions.com/what-is-t1.html) 
 2. Lamor-Frequency
