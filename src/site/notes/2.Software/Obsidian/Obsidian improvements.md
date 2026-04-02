@@ -36,10 +36,7 @@
 - A checkbox named `dg-home`
 ```
 
-URL = https://my-digitial-garden-o94w2qu5p-chriszen1s-projects.vercel.app/
-
-https://vercel.com/chriszen1s-projects/my-digitial-garden/7TqMyGCjM8EWEMGskPxf8rqueNEQ
-
+URL = https://my-digitial-garden-gamma.vercel.app/
 
 `Ctrl + p` -> Choose: `Publish active note`
 
