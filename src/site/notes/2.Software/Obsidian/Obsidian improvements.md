@@ -28,17 +28,17 @@
 
 ##### Digital garden: allows me to publish notes online using Github and Vercel
 	
-1. See -> `https://dg-docs.ole.dev/getting-started/01-getting-started/`
-
+- See -> https://dg-docs.ole.dev/getting-started/01-getting-started/
+- In each note the following two properties (propertyType = CheckBox) must be added. „dg-publish” must be checked only in the parent note. In all notes „dg-home“ must be checked
 ```
 # In properties
 - A checkbox named `dg-publish`
 - A checkbox named `dg-home`
 ```
 
-URL = https://my-digitial-garden-gamma.vercel.app/
+- URL = https://my-digitial-garden-gamma.vercel.app/
 
-`Ctrl + p` -> Choose: `Publish active note`
+- `Ctrl + p` -> Choose: `Digital Garden:Publish active note`
 
 ---
 ### Themes
