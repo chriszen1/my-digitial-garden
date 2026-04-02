@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-software/obsidian/obsidian-improvements/","tags":["obsidian","add-ons","themes","gardenEntry"],"dg-note-properties":{"tags":["obsidian","add-ons","themes","gardenEntry"]}}
+{"dg-publish":true,"permalink":"/2-software/obsidian/obsidian-improvements/","tags":["obsidian","add-ons","themes","gardenEntry"],"noteIcon":"","dg-note-properties":{"tags":["obsidian","add-ons","themes","gardenEntry"]}}
 ---
 
 
