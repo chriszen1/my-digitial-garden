@@ -3,7 +3,6 @@
 ---
 
 
-# Obsidian improvements
 
 1. Create a to-do list that automatically registers an appointment in the calendar obsidian
 2. Templates
