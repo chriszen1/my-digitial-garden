@@ -38,7 +38,8 @@
 
 - URL = https://my-digitial-garden-gamma.vercel.app/
 
-- `Ctrl + p` -> Choose: `Digital Garden:Publish active note`
+- `Ctrl + p` 
+	- Choose: `Digital Garden:Publish active note`
 
 ---
 ### Themes
